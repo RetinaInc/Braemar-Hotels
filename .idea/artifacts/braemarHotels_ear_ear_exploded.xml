@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="braemarHotels-ear:ear exploded">
+    <output-path>$PROJECT_DIR$/braemarHotels-ear/target/braemarHotels</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="braemarHotels-ear/javaeeApplication/JavaEE" />
+      <element id="dir-copy" path="$PROJECT_DIR$/braemarHotels-ear/src/main/application" />
+      <element id="directory" name="braemarHotels-web-1.0-SNAPSHOT.war">
+        <element id="artifact" artifact-name="braemarHotels-web:war exploded" />
+      </element>
+      <element id="directory" name="braemarHotels-ejb-1.0-SNAPSHOT.jar">
+        <element id="artifact" artifact-name="braemarHotels-ejb:ejb exploded" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="Maven: junit:junit:4.10" />
+        <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.1" />
+      </element>
+    </root>
+  </artifact>
+</component>

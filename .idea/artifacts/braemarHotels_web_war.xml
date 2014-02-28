@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="braemarHotels-web:war">
+    <output-path>$PROJECT_DIR$/braemarHotels-web/target</output-path>
+    <root id="archive" name="braemarHotels-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="braemarHotels-web:war exploded" />
+    </root>
+  </artifact>
+</component>

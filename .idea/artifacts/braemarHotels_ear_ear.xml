@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="braemarHotels-ear:ear">
+    <output-path>$PROJECT_DIR$/braemarHotels-ear/target</output-path>
+    <root id="archive" name="braemarHotels.ear">
+      <element id="artifact" artifact-name="braemarHotels-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

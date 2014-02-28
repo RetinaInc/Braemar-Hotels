@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="braemarHotels-ejb:ejb">
+    <output-path>$PROJECT_DIR$/braemarHotels-ejb/target</output-path>
+    <root id="archive" name="braemarHotels-ejb-1.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="braemarHotels-ejb:ejb exploded" />
+    </root>
+  </artifact>
+</component>
